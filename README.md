@@ -1,14 +1,5 @@
-<style>
-  h1{
-    color: blue;
-    text-align: center;
-  }
-  #info{
-    color: green;
-  }
-</style>
-  
-<h1> SHARE - LEARN - DO - PLAY </h1>
+
+<h1 style="color: blue; text-align: center;"> SHARE - LEARN - DO - PLAY </h1>
 <div id ="info">
   <ul>
     <li>👋 Hi, I’m Khoa, from Gia Lai province!!!</li>
