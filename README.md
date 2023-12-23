@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Anh Khoa</h1>
 <h3 align="center">This is my clone account, to share my mini project for everyone!!!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khoa070104&label=Profile%20views&color=0e75b6&style=flat" alt="khoa070104" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khoa070104" alt="khoa070104" /></a> </p>
-
 - 🔭 I’m currently studying in [FPT University](https://www.facebook.com/daihocfptquynhon)
 
 - 📫 Contact me: **mamgh789@gmail.com**
@@ -24,5 +20,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khoa070104&show_icons=true&locale=en&layout=compact" alt="khoa070104" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khoa070104&show_icons=true&locale=en" alt="khoa070104" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khoa070104&" alt="khoa070104" /></p>
