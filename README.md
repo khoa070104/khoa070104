@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Anh Khoa</h1>
 <h3 align="center">This is my clone account, to share my mini project for everyone!!!</h3>
+<img allign="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 - 🔭 I’m currently studying in [FPT University](https://www.facebook.com/daihocfptquynhon)
 
