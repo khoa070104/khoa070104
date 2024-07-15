@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Anh Khoa</h1>
 <h3 align="center">This is my clone account, to share my mini project for everyone!!!</h3>
-<img allign="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img allign="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 - 🔭 I’m currently studying in [FPT University](https://www.facebook.com/daihocfptquynhon)
 
@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/23138737" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23138737" height="30" width="40" /></a>
 <a href="https://fb.com/khoaak71.vip/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khoaak71.vip/" height="30" width="40" /></a>
-<a href="https://instagram.com/khoadayy_ayy" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khoadayy_ayy" height="30" width="40" /></a>
+<a href="https://instagram.com/_dotnetcsharp07" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khoadayy_ayy" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCBc4aVLeIGHkIvWhtYDiARQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="funnycode" height="30" width="40" /></a>
 </p>
 
